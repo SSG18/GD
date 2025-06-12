@@ -1,0 +1,2 @@
+# GD
+Gos dura
